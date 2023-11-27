@@ -3,7 +3,7 @@ Hi, I'm Ashwini Khedkar, a Computer Enthusiast 💻 and a aspiring Data Scientis
 
 ### About me
 
-- 🎓 Currently pursuing a graduate degree in Information Systems at Northeastern University (NEU), with a concentration in big data analytics. 
+- 🎓 Currently pursuing a graduate degree in Information Systems at Northeastern University (NEU), with a concentration in big data analytics and Ex-SDE(Cloud and Data) Intern at Rivian Automotive.
 - 🌱 My main interests and areas of competence are statistical data analysis, database management, data visualization, and predictive modeling.
 - 📫 Reach out to me at: [@AshwiniKhedkar](https://www.linkedin.com/in/ashwini-khedkar-3880b0127/)
 
